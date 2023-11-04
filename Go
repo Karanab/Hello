@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>
+            div
+        </title>
+     
+    </head>
+    <body style="background-color:grey">
+                <div style="border:5px solid red;border; background-color:brown;width:90%;hight:100%;margin-left:5%;margin-top:15%">
+                              
+                    <div style="border:5px solid blue;hight:35%;wight:35;float:left;margin-top:25%;margin-left:5%;background-color:orange;"> <img src="1698733498453.jpg" alt="karan">
+                        
+                 </div>
+                   
+                    <div style="border:5px solid yellow;hight:1%;width:96%;margin-top:1%;margin-right:1%;margin-left:1%;background-color:red"">
+                       <p align="center"> <b>Karan</b></p>       
+        </div>
+        <div style="border:5px solid pink;hight:50%;width:30%;float:right;margin-top:5%;margin-right:5%;background-color:skyblue">
+            <marquee behavior=" scroll"direction="right "scrollamount="2">
+            
+                 
+   <table style="border:2px solid blue;margin-left:5%">
+       
+            <tr style="border:2px solid blue;background-color: red;hight:0.5px;width:0.4px;">
+                
+                <th >name</th>
+                <th >relation</th>
+                
+            </tr>
+            <tr style="border:2px solid blue;background-color: green;hight:10px;width:10px">
+                
+                
+                <td >Karan Kumar</td>
+                <td >self</td>
+            </tr>
+            
+            <tr style="border:2px solid blue;background-color: pink;hight:10px;width:10px">
+                
+                
+                <td><PRE>Niranjan
+mandal</PRE></td>
+                <td >Father</td>
+            </tr>
+            
+            <tr style="border:2px solid blue;background-color: green">
+                
+                
+                <td >Rinku Devi</td>
+                <td >Mather</td>
+            </tr>
+            
+        </table>
+       </marquee> 
+        
+                  
+        <marquee behavior=" scroll"direction="right"scrollamount="1">
+                          
+    <p>phone:<a href="tel:6207206719">karan phone no</a></p>
+    <p>Email:<a href="mailto:karan121bgp@gmail.com">karan Email Id</a></p>
+   </marquee>
+            
+           
+           
+        </div>
+        
+       
+        
+            <div style="border:5px solid yellow;hight:2%;width:96%;margin-top:1%;margin-right:1%;margin-top:60%;margin-left:1.5%;background-color:pink"> <marquee behavior="scroll"direction="right"scrollamount="30"><p align="center"> <b>Hello</b></p></marquee>
+                
+            </div>
+        </div>
+        
+       
+      
+    </body>
+</html>
